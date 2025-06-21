@@ -1,7 +1,5 @@
 # Pomodoro-Timer-GUI
 
-![Ultra Pomodoro Banner](https://user-images.githubusercontent.com/0000000/ultra-pomodoro-banner.gif) <!-- Replace with actual banner URL -->
-
 ### ⏱️ A hyper-dynamic, ultra-responsive, and interactive Pomodoro Timer built with Python & Tkinter.
 
 ---
@@ -34,15 +32,6 @@ Most timers are boring. This isn't one of them.
 - **Language**: Python 3
 - **GUI**: Tkinter (Custom styled)
 - **Persistence**: JSON-based config
-
----
-
-## 📸 Preview
-
-| Work Session | Break Time | Settings |
-|--------------|------------|----------|
-| ![work](https://user-images.githubusercontent.com/0000000/work.gif) | ![break](https://user-images.githubusercontent.com/0000000/break.gif) | ![settings](https://user-images.githubusercontent.com/0000000/settings.gif) |
-*Replace the preview links with actual GIFs/screenshots of your app.*
 
 ---
 
